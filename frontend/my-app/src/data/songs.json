@@ -1,0 +1,59 @@
+{
+  "songs": [
+    {
+      "id": 1,
+      "title": "Song 1",
+      "artist": "Artist 1",
+      "album": "Album 1",
+      "genre": "Genre 1",
+      "release_date": "2021-01-01",
+      "duration": "3:00",
+      "rating": 5,
+      "cover": "https://www.billboard.com/wp-content/uploads/media/tyler-the-creator-igor-album-art-2019-billboard-embed.jpg?w=600"
+    },
+    {
+      "id": 2,
+      "title": "Song 2",
+      "artist": "Artist 2",
+      "album": "Album 2",
+      "genre": "Genre 2",
+      "release_date": "2021-01-02",
+      "duration": "3:30",
+      "rating": 4,
+      "cover": "https://www.billboard.com/wp-content/uploads/media/tyler-the-creator-igor-album-art-2019-billboard-embed.jpg?w=600"
+    },
+    {
+      "id": 3,
+      "title": "Song 3",
+      "artist": "Artist 3",
+      "album": "Album 3",
+      "genre": "Genre 3",
+      "release_date": "2021-01-03",
+      "duration": "4:00",
+      "rating": 3,
+      "cover": "https://www.billboard.com/wp-content/uploads/media/tyler-the-creator-igor-album-art-2019-billboard-embed.jpg?w=600"
+    },
+    {
+      "id": 4,
+      "title": "Song 4",
+      "artist": "Artist 4",
+      "album": "Album 4",
+      "genre": "Genre 4",
+      "release_date": "2021-01-04",
+      "duration": "4:30",
+      "rating": 2,
+      "cover": "https://www.billboard.com/wp-content/uploads/media/tyler-the-creator-igor-album-art-2019-billboard-embed.jpg?w=600"
+    },
+    {
+      "id": 5,
+      "title": "Song 5",
+      "artist": "Artist 5",
+      "album": "Album 5",
+      "genre": "Genre 5",
+      "release_date": "2021-01-05",
+      "duration": "5:00",
+      "rating": 1,
+      "cover": "https://www.billboard.com/wp-content/uploads/media/tyler-the-creator-igor-album-art-2019-billboard-embed.jpg?w=600"
+    }
+  ]
+}

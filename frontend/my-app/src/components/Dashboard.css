@@ -1,0 +1,40 @@
+#dashboard {
+    display: flex;
+    height: 100vh;
+}
+
+#music-cards {
+  width: 60%;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-content: center;
+}
+
+.card {
+  background-color: #242424;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  height: fit-content;
+  align-items: unset;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+}
+
+.card img {
+  width: 200px;
+  border-radius: 10px 10px 0 0;
+}
+
+.card .content {
+  padding: 0px 10px 10px 10px;
+}
+
+.card p {
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: large;
+}
+
+.card p:last-child {
+  font-size: medium;
+}
