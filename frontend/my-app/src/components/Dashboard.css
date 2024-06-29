@@ -9,6 +9,7 @@
   justify-content: space-around;
   flex-wrap: wrap;
   align-content: center;
+  overflow-y: auto;
 }
 
 .card {
